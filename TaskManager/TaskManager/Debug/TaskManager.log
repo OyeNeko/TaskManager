@@ -1,0 +1,14 @@
+﻿  TaskManagerDlg.cpp
+E:\TaskManager\TaskManager\TaskManagerDlg.cpp(111,27): error C2679: 二元“=”: 没有找到接受“Detail *”类型的右操作数的运算符(或没有可接受的转换)
+D:\Windows Kits\10\Include\10.0.19041.0\shared\windef.h(39,1): message : 可能是“HWND__ &HWND__::operator =(HWND__ &&)”
+D:\Windows Kits\10\Include\10.0.19041.0\shared\windef.h(39,1): message : 或    “HWND__ &HWND__::operator =(const HWND__ &)”
+E:\TaskManager\TaskManager\TaskManagerDlg.cpp(111,27): message : 尝试匹配参数列表“(HWND__, Detail *)”时
+E:\TaskManager\TaskManager\TaskManagerDlg.cpp(222,1): error C2601: “CTaskManagerDlg::OnBnClickedBuRefresh”: 本地函数定义是非法的
+E:\TaskManager\TaskManager\TaskManagerDlg.cpp(180): message : 此行有一个“{”没有匹配项
+E:\TaskManager\TaskManager\TaskManagerDlg.cpp(231,1): error C2601: “CTaskManagerDlg::OnBnClickedButCloseprocess”: 本地函数定义是非法的
+E:\TaskManager\TaskManager\TaskManagerDlg.cpp(180): message : 此行有一个“{”没有匹配项
+E:\TaskManager\TaskManager\TaskManagerDlg.cpp(252,1): warning C4138: 在注释外找到“*/”
+E:\TaskManager\TaskManager\TaskManagerDlg.cpp(252,2): error C2059: 语法错误:“/”
+E:\TaskManager\TaskManager\TaskManagerDlg.cpp(255,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+E:\TaskManager\TaskManager\TaskManagerDlg.cpp(257,3): error C2065: “pResult”: 未声明的标识符
+E:\TaskManager\TaskManager\TaskManagerDlg.cpp(180): fatal error C1075: “{”: 未找到匹配令牌
