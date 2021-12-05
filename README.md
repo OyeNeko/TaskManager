@@ -1,4 +1,4 @@
 # TaskManager
-PC桌面应有
+PC桌面应用
 C++
 window任务管理器
